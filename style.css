@@ -1,0 +1,13 @@
+table,th,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+.php_fom_update{
+    border: 2px solid lightblue;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px lightgrey;
+    margin-top: 15px;
+}
